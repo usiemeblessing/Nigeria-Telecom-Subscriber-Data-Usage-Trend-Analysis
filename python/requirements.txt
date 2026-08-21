@@ -1,0 +1,9 @@
+To be able to run the python script, you will need to install these libraries
+
+- python
+- jupyter
+- pandas
+- numpy
+- matplotlib
+- openpyxl
+- seaborne
