@@ -6,7 +6,7 @@
 
 > An end-to-end retail sales analytics project using ** Microsoft Excel, MySQL, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, ** ShopEase Nigeria**.
 
-![Dashboard Preview](visuals/retail-sales-performance-powerbi-dashboard-overview.jpg)
+![Dashboard Preview](page_1_market_overview.jpg)
 
 ---
 
