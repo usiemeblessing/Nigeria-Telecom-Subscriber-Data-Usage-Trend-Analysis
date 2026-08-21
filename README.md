@@ -1,11 +1,10 @@
-# 📊 Retail Sales Performance Analysis
+# 📊 NIGERIA TELECOM SUBSCRIBER/DATA USAGE ANALYSIS
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-> An end-to-end retail sales analytics project using **Python, MySQL, Microsoft Excel, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, **ShopEase Nigeria**.
+> An end-to-end retail sales analytics project using ** Microsoft Excel, MySQL, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, ** ShopEase Nigeria**.
 
 ![Dashboard Preview](visuals/retail-sales-performance-powerbi-dashboard-overview.jpg)
 
