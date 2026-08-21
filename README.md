@@ -1,4 +1,4 @@
-# 📊 NIGERIA TELECOM SUBSCRIBER/DATA USAGE ANALYSIS
+# 📊 TELECOM SUBSCRIBER/DATA USAGE TREND
 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
