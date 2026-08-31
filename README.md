@@ -140,6 +140,7 @@ Below are the recommendations made from the analysis:
 • For Regulators/Industry: Continue monitoring reporting completeness across operators; several months/years in the dataset show incomplete operator-level reporting relative to NCC's official totals, reinforcing the need for standardized monthly disclosure.
 
 For Technology Planning: Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
+
 ---
 
 ## 📁 Repository Structure
