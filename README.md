@@ -96,8 +96,11 @@ The dashboard consists of 5 pages:
 - Operator Performance — market share, ranking, and year-by-year operator detail
   ![Dashboard Preview](visuals/page_2_operator_performance.jpg)
 - Internet & Data Usage — broadband penetration and data consumption trends
+   ![Dashboard Preview](visuals/page_3_internet_and_data_usage_trend.jpg)
 - Technology Adoption — 2G/3G/4G/5G network transition
+   ![Dashboard Preview](visuals/page_4_technology_adoption.jpg)
 - Key Insights & Recommendations — executive summary and strategic takeaways
+   ![Dashboard Preview](visuals/page_5_key_insights_and_recommendation.jpg)
 
 ---
 
