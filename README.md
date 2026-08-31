@@ -88,6 +88,7 @@ This analysis answers the following questions:
 The dashboard consists of 5 pages:
 
 - Nigeria Telecom Overview — national subscriber, teledensity, and adoption trends
+
   ![Dashboard Preview](05_visuals/page_1_market_overview.jpg)
 - Operator Performance — market share, ranking, and year-by-year operator detail
   ![Dashboard Preview](05_visuals/page_2_operator_performance.jpg)
@@ -152,7 +153,7 @@ nigeria-telecom-trend-analysis/
     |── internet_data_usage.csv
     |── nigeria_telecom_2020_2025_workbook.xlsx
     |── overall_subscribers_.csv
-    |── technology_market_share.csv
+    └── technology_market_share.csv
 ├── 03_sql/
 │   ├── 01_schema_setup.sql
 │   ├── 02_data_import.sql
@@ -165,11 +166,12 @@ nigeria-telecom-trend-analysis/
     |── page_2_operator_performance.jpg
     |── page_3_internet_and_data_usage_trend.jpg
     |── page_4_technology_adoption.jpg
-    |── page_5_key_insights_and_recommendations.jpg
+    └── page_5_key_insights_and_recommendations.jpg
 ├── docs/
-│   ├── excel_documentation.docx
-│   ├── sql_documentation.docx
-│   └── powerbi_documentation.docx
+    ├── excel_documentation.docx
+    ├── sql_documentation.docx
+    ├── powerbi_documentation.docx
+    └── nigeria_telecom_insights_and_recommendations_summary.docx
 └── README.md
 ```
 
