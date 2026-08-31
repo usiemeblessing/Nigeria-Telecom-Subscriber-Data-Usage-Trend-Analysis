@@ -133,13 +133,13 @@ This analysis uncovered the following insights:
 
 Below are the recommendations made from the analysis:
 
-• For Legacy/Smaller Operators (T2, Globacom): Prioritize subscriber win-back and re-linking campaigns following the 2024 deactivation shock; targeted data-bundle offers could help arrest T2's ongoing decline (-1.7% YoY).
+**• For Legacy/Smaller Operators (T2, Globacom):** Prioritize subscriber win-back and re-linking campaigns following the 2024 deactivation shock; targeted data-bundle offers could help arrest T2's ongoing decline (-1.7% YoY).
 
-• For Market Leaders (MTN, Airtel): Sustain broadband investment, the segment is growing 17% YoY, nearly double the overall subscriber growth rate, and represents the clearest expansion opportunity.
+• **For Market Leaders (MTN, Airtel):** Sustain broadband investment, the segment is growing 17% YoY, nearly double the overall subscriber growth rate, and represents the clearest expansion opportunity.
 
-• For Regulators/Industry: Continue monitoring reporting completeness across operators; several months/years in the dataset show incomplete operator-level reporting relative to NCC's official totals, reinforcing the need for standardized monthly disclosure.
+• **For Regulators/Industry:** Continue monitoring reporting completeness across operators; several months/years in the dataset show incomplete operator-level reporting relative to NCC's official totals, reinforcing the need for standardized monthly disclosure.
 
-For Technology Planning: Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
+•** For Technology Planning:** Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
 
 ---
 
