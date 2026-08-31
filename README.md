@@ -144,9 +144,15 @@ nigeria-telecom-trend-analysis/
 ├── 01_ncc_raw_data/
 │   └── nigeria_telecom_full_dataset(raw).xlsx
 ├── 02_cleaned_data_(xlsx, csv)/
-    |── data_cleaning_workbook.xlsx
-    |── data_cleaning_workbook.xlsx
-    |── data_cleaning_workbook.xlsx
+    |── broadband_penetration.csv
+    |── gsm_internet_subs_operator_data.csv
+    |── gsm_internet_subs_reported_total.csv
+    |── gsm_subs_operator_data.csv
+    |── gsm_subs_reported_total.csv
+    |── internet_data_usage.csv
+    |── nigeria_telecom_2020_2025_workbook.xlsx
+    |── overall_subscribers_.csv
+    |── technology_market_share.csv
 ├── 03_sql/
 │   ├── 01_schema_setup.sql
 │   ├── 02_data_import.sql
@@ -154,6 +160,12 @@ nigeria-telecom-trend-analysis/
 ├── 04_powerbi-dashboard/
 │   └── nigeria_telecom.pbix
 ├── 05_visuals/
+    |── nigeria_telecom_data_model.jpg
+    |── page_1_market_overview.jpg
+    |── page_2_operator_performance.jpg
+    |── page_3_internet_and_data_usage_trend.jpg
+    |── page_4_technology_adoption.jpg
+    |── page_5_key_insights_and_recommendations.jpg
 ├── docs/
 │   ├── excel_documentation.docx
 │   ├── sql_documentation.docx
