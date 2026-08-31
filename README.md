@@ -92,7 +92,9 @@ This analysis answers the following questions:
 The dashboard consists of 5 pages:
 
 - Nigeria Telecom Overview — national subscriber, teledensity, and adoption trends
+  ![Dashboard Preview](visuals/page_1_market_overview.jpg)
 - Operator Performance — market share, ranking, and year-by-year operator detail
+  ![Dashboard Preview](visuals/page_2_operator_performance.jpg)
 - Internet & Data Usage — broadband penetration and data consumption trends
 - Technology Adoption — 2G/3G/4G/5G network transition
 - Key Insights & Recommendations — executive summary and strategic takeaways
