@@ -179,11 +179,12 @@ nigeria-telecom-trend-analysis/
 
 ## ▶️ How to Reproduce
 
-1. Explore the raw dataset in data/raw/
-2. Review the cleaned dataset in data/cleaned/
-3. Run the SQL scripts in the sql/ folder using MySQL (in order: schema setup → data import → analysis queries)
-4. Open the Power BI dashboard in powerbi-dashboard/
-5. Explore the dashboard pages and accompanying documentation in docs/
+1. Explore the raw dataset in 01_ncc_raw_data/
+2. Review the cleaned datasets in 20_cleaned_data_(xlsx, csv)/
+3. Run the SQL scripts in the 03_sql/ folder using MySQL (in order: schema setup → data import → analysis queries)
+4. Open the Power BI dashboard in 04_powerbi-dashboard/
+5. Explore the dashboard pages in 05_visuals/
+6. Explore the accompanying documentation in 06_docs/
 ---
 
 ## 👤 Author
