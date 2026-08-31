@@ -115,17 +115,17 @@ The dashboard consists of 5 pages:
 
 This analysis uncovered the following insights:
 
-• Market Concentration: MTN now holds 51.9% market share (93M subscribers), up from 39.7% in 2020, a dramatic consolidation driven partly by the 2024 NIN-SIM deactivation exercise, which caused Globacom and T2 to lose a combined ~35M subscribers almost overnight.
+• ** Market Concentration:** MTN now holds 51.9% market share (93M subscribers), up from 39.7% in 2020, a dramatic consolidation driven partly by the 2024 NIN-SIM deactivation exercise, which caused Globacom and T2 to lose a combined ~35M subscribers almost overnight.
 
-• Operator Divergence: Airtel grew steadily to 33.9% share (61M subscribers, +7.5% YoY), while Globacom fell to 12.4% (22M) and T2 to just 1.8% (3M, -1.7% YoY), the smallest and only declining operator.
+• **Operator Divergence:** Airtel grew steadily to 33.9% share (61M subscribers, +7.5% YoY), while Globacom fell to 12.4% (22M) and T2 to just 1.8% (3M, -1.7% YoY), the smallest and only declining operator.
 
-• Digital Shift: Internet subscribers (148M) now represent over 82% of total subscribers, and broadband is growing more than 2x faster than the overall subscriber base, confirming the market's shift from voice-first to data-first usage.
+• ** Digital Shift:** Internet subscribers (148M) now represent over 82% of total subscribers, and broadband is growing more than 2x faster than the overall subscriber base, confirming the market's shift from voice-first to data-first usage.
 
-• Technology Transition: 4G remains the dominant network technology, while 5G adoption, though still early-stage is visibly climbing, marking the start of Nigeria's next infrastructure shift. This data is available from May 2023 onward.
+• **Technology Transition:** 4G remains the dominant network technology, while 5G adoption, though still early-stage is visibly climbing, marking the start of Nigeria's next infrastructure shift. This data is available from May 2023 onward.
 
-• Reporting Gaps: Some years show fewer than the full set of operators reporting data, a gap that helps explain discrepancies between summed operator totals and NCC's officially reported figures.
+• **Reporting Gaps:** Some years show fewer than the full set of operators reporting data, a gap that helps explain discrepancies between summed operator totals and NCC's officially reported figures.
 
-• Teledensity Volatility: Teledensity has fluctuated significantly over the period, declining from 97.45% in January 2020 to 82.87% by December 2025, a drop of roughly 14.6 percentage points, closely tied to the 2024 subscriber deactivation event.
+• **Teledensity Volatility:** Teledensity has fluctuated significantly over the period, declining from 97.45% in January 2020 to 82.87% by December 2025, a drop of roughly 14.6 percentage points, closely tied to the 2024 subscriber deactivation event.
 
 ---
 
@@ -139,7 +139,7 @@ Below are the recommendations made from the analysis:
 
 • **For Regulators/Industry:** Continue monitoring reporting completeness across operators; several months/years in the dataset show incomplete operator-level reporting relative to NCC's official totals, reinforcing the need for standardized monthly disclosure.
 
-•** For Technology Planning:** Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
+• ** For Technology Planning:** Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
 
 ---
 
