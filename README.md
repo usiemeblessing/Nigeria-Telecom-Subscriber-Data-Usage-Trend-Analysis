@@ -6,7 +6,7 @@
 
 > An end-to-end telecom analytics project using Excel, SQL, and Power BI to analyze subscriber growth, operator market share, digital adoption, and data usage trends across Nigeria's mobile telecom sector, using data sourced from the Nigerian Communications Commission (NCC).**.
 
-![Dashboard Preview](visuals/page_1_market_overview.jpg)
+![Dashboard Preview](05_visuals/page_1_market_overview.jpg)
 
 ---
 
@@ -88,15 +88,15 @@ This analysis answers the following questions:
 The dashboard consists of 5 pages:
 
 - Nigeria Telecom Overview — national subscriber, teledensity, and adoption trends
-  ![Dashboard Preview](visuals/page_1_market_overview.jpg)
+  ![Dashboard Preview](05_visuals/page_1_market_overview.jpg)
 - Operator Performance — market share, ranking, and year-by-year operator detail
-  ![Dashboard Preview](visuals/page_2_operator_performance.jpg)
+  ![Dashboard Preview](05_visuals/page_2_operator_performance.jpg)
 - Internet & Data Usage — broadband penetration and data consumption trends
-   ![Dashboard Preview](visuals/page_3_internet_and_data_usage_trend.jpg)
+   ![Dashboard Preview](05_visuals/page_3_internet_and_data_usage_trend.jpg)
 - Technology Adoption — 2G/3G/4G/5G network transition
-   ![Dashboard Preview](visuals/page_4_technology_adoption.jpg)
+   ![Dashboard Preview](05_visuals/page_4_technology_adoption.jpg)
 - Key Insights & Recommendations — executive summary and strategic takeaways
-   ![Dashboard Preview](visuals/page_5_key_insights_and_recommendation.jpg)
+   ![Dashboard Preview](05_visuals/page_5_key_insights_and_recommendation.jpg)
 
 ---
 
@@ -141,18 +141,19 @@ Below are the recommendations made from the analysis:
 
 ```text
 nigeria-telecom-trend-analysis/
-├── data/
-│   ├── raw/
-│   └── cleaned/
-├── excel/
-│   └── data_cleaning_workbook.xlsx
-├── sql/
+├── 01_ncc_raw_data/
+│   └── nigeria_telecom_full_dataset(raw).xlsx
+├── 02_cleaned_data_(xlsx, csv)/
+    |── data_cleaning_workbook.xlsx
+    |── data_cleaning_workbook.xlsx
+    |── data_cleaning_workbook.xlsx
+├── 03_sql/
 │   ├── 01_schema_setup.sql
 │   ├── 02_data_import.sql
 │   └── 03_analysis_queries.sql
-├── powerbi-dashboard/
-│   └── nigeria_telecom_dashboard.pbix
-├── visuals/
+├── 04_powerbi-dashboard/
+│   └── nigeria_telecom.pbix
+├── 05_visuals/
 ├── docs/
 │   ├── excel_documentation.docx
 │   ├── sql_documentation.docx
