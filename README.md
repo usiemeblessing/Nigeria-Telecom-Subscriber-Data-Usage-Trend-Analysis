@@ -83,11 +83,7 @@ This analysis answers the following questions:
 
 ## 📊 Dashboard Preview
 
-### Power BI Dashboard
-
-![Power BI Dashboard](visuals/retail-sales-performance-powerbi-dashboard-overview.jpg)
-
-### Dashboard Components
+### Power BI Dashboard (Components)
 
 The dashboard consists of 5 pages:
 
