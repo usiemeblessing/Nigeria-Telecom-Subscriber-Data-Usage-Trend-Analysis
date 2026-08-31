@@ -115,13 +115,17 @@ The dashboard consists of 5 pages:
 
 This analysis uncovered the following insights:
 
-1. Market Concentration: MTN holds 51.9% market share (93M subscribers), up from 39.7% in 2020 — a dramatic consolidation.
-2. Operator Divergence: Airtel grew steadily to 33.9% share (61M subscribers, +7.5% YoY), while Globacom fell to 12.4% (22M) and T2 to just 1.8% (3M, -1.7% YoY).
-3. 2024 Market Shock: A sharp subscriber drop at Globacom and T2 in 2024 is traced to NCC's NIN-SIM deactivation enforcement, a genuine regulatory market event rather than a data error.
-4. Digital Shift: Internet subscribers (148M) represent over 82% of total subscribers, and broadband is growing more than 2x faster than the overall subscriber base.
-5. Data Consumption: Internet usage reached 1.39M TB, up 35.7% year-over-year, driven by expanding broadband adoption.
-6. Reporting Gaps: Some years show fewer than 6 operators reporting data, a gap that helps explain discrepancies between summed operator totals and NCC's official reported figures.
-7. Teledensity Volatility: Teledensity has fluctuated significantly (peaking above 100% before the 2024 decline), reflecting both multi-SIM ownership and the impact of SIM deactivation.
+• Market Concentration: MTN now holds 51.9% market share (93M subscribers), up from 39.7% in 2020, a dramatic consolidation driven partly by the 2024 NIN-SIM deactivation exercise, which caused Globacom and T2 to lose a combined ~35M subscribers almost overnight.
+
+• Operator Divergence: Airtel grew steadily to 33.9% share (61M subscribers, +7.5% YoY), while Globacom fell to 12.4% (22M) and T2 to just 1.8% (3M, -1.7% YoY), the smallest and only declining operator.
+
+• Digital Shift: Internet subscribers (148M) now represent over 82% of total subscribers, and broadband is growing more than 2x faster than the overall subscriber base, confirming the market's shift from voice-first to data-first usage.
+
+• Technology Transition: 4G remains the dominant network technology, while 5G adoption, though still early-stage is visibly climbing, marking the start of Nigeria's next infrastructure shift. This data is available from May 2023 onward.
+
+• Reporting Gaps: Some years show fewer than the full set of operators reporting data, a gap that helps explain discrepancies between summed operator totals and NCC's officially reported figures.
+
+• Teledensity Volatility: Teledensity has fluctuated significantly over the period, declining from 97.45% in January 2020 to 82.87% by December 2025, a drop of roughly 14.6 percentage points, closely tied to the 2024 subscriber deactivation event.
 
 ---
 
@@ -129,13 +133,13 @@ This analysis uncovered the following insights:
 
 Below are the recommendations made from the analysis:
 
-1. For legacy/smaller operators (T2, Globacom): prioritize subscriber win-back and re-linking campaigns following the 2024 deactivation shock.
-2. For market leaders (MTN, Airtel): sustain broadband investment, the fastest-growing segment at 17% YoY.
-3. For churn reduction: T2 needs targeted data-bundling campaigns to arrest its ongoing decline.
-4. For regulators/industry: continue monitoring reporting completeness across operators to reduce reconciliation gaps.
-5. Expand technology-generation data collection (2G–5G) into structured monthly tables rather than year-end PDF reports, to support deeper trend analysis.
-6. Prioritize infrastructure investment toward regions/segments with the fastest broadband growth to sustain momentum.
+• For Legacy/Smaller Operators (T2, Globacom): Prioritize subscriber win-back and re-linking campaigns following the 2024 deactivation shock; targeted data-bundle offers could help arrest T2's ongoing decline (-1.7% YoY).
 
+• For Market Leaders (MTN, Airtel): Sustain broadband investment, the segment is growing 17% YoY, nearly double the overall subscriber growth rate, and represents the clearest expansion opportunity.
+
+• For Regulators/Industry: Continue monitoring reporting completeness across operators; several months/years in the dataset show incomplete operator-level reporting relative to NCC's official totals, reinforcing the need for standardized monthly disclosure.
+
+For Technology Planning: Given 5G's early but accelerating adoption, continued infrastructure investment in higher-generation networks is warranted to sustain data-usage growth, which is already outpacing subscriber growth.
 ---
 
 ## 📁 Repository Structure
